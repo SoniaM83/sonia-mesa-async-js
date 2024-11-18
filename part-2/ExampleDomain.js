@@ -161,7 +161,7 @@ async function fetchProducts() {
     const data = await response.json();
     console.log(data[0].name);
   } catch (error) {
-    console.error(`Could not get roduct: $(error)`);
+    console.error(`Could not get product: $(error)`);
   }
 }
 
