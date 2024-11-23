@@ -1,0 +1,15 @@
+body {
+    margin: 20px;
+}
+
+label, button {
+    margin: 10px 0;
+    display: block;
+}
+
+#output {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #1d1853;
+    background-color: #f9f9f9;
+}
